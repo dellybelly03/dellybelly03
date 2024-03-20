@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...through email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: you cannot breathe with your mouth open
+- ⚡ Fun fact: you cannot breathe with your mouth open 
 
 <!---
 dellybelly03/dellybelly03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
